@@ -758,18 +758,24 @@ textarea {
   padding-top: 25px;
 }
 .offCanvas__side-info .contact-list h4 {
-  color: var(--tg-heading-color);
+  color:#ffffff;
   font-weight: 700;
   font-size: 18px;
 }
 .offCanvas__side-info .contact-list p {
-  color: var(--tg-body-color);
+  color: #ffffff;
+  margin: 0;
+  margin-bottom: 2px;
+  line-height: 26px;
+}
+.offCanvas__side-info  p a{
+  color: #ffffff;
   margin: 0;
   margin-bottom: 2px;
   line-height: 26px;
 }
 .offCanvas__social-icon a {
-  color: var(--tg-theme-primary);
+  color: #ffffff;
   display: inline-block;
   margin-right: 20px;
   text-align: center;
@@ -968,6 +974,7 @@ textarea {
   padding: 105px 0 110px;
   position: relative;
   z-index: 1;
+  margin-top: 12%;
 }
 @media (max-width: 991.98px) {
   .breadcrumb__bg {
@@ -1511,6 +1518,8 @@ textarea {
 }
 .tg-header__area-four .tgmenu__navbar-wrap ul {
   margin: 0 auto;
+  width: 100%;
+  justify-content: end;
 }
 .tg-header__area-four .tgmenu__navbar-wrap ul li a {
   padding: 26px 0px;
@@ -10042,7 +10051,7 @@ textarea {
   -o-border-radius: 15px;
   -ms-border-radius: 15px;
   border-radius: 15px;
-  border: 1px solid var(--tg-border-1);
+  /* border: 1px solid var(--tg-border-1); */
   margin-bottom: 30px;
 }
 .team-item-wrap .row {
