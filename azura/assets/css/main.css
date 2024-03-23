@@ -5103,9 +5103,9 @@ textarea {
   transition: all 0.4s ease-out 0s;
 }
 .services-content .title {
-  font-size: 22px;
-  font-weight: 600;
-  margin-bottom: 10px;
+	font-size: 16px;
+	font-weight: 600;
+	margin-bottom: 10px;
 }
 .services-content .title a:hover {
   color: var(--tg-theme-primary);
@@ -8741,7 +8741,7 @@ textarea {
     13. Testimonial
 ===============================*/
 .testimonial-area {
-  background: #FFFBF3;
+  background: #ffffff;
   padding: 250px 0 0;
   position: relative;
   z-index: 1;
