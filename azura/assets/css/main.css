@@ -3299,7 +3299,7 @@ textarea {
 }
 .about__area-six {
   position: relative;
-  padding: 0px 0 60px 0;
+  padding: 60px 0 60px 0;
 }
 @media (max-width: 767.98px) {
   .about__area-six {
@@ -4782,6 +4782,7 @@ textarea {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   margin-bottom: 30px;
+  height: 300px;
 }
 .services-item:hover {
   box-shadow: 0px 4px 30px 0px #CFDEE4;
@@ -12412,7 +12413,7 @@ blockquote p {
   width: 85px;
   height: 85px;
   object-fit: cover;
-  mix-blend-mode: luminosity;
+
   border-radius: 10px;
 }
 .footer-bottom {
