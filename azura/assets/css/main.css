@@ -751,31 +751,31 @@ textarea {
   padding: 0;
 }
 .offCanvas__logo img {
-  max-height: 34px;
+  max-height:90px;
 }
 .offCanvas__side-info {
   border-top: 1px solid var(--tg-theme-primary);
   padding-top: 25px;
 }
 .offCanvas__side-info .contact-list h4 {
-  color:#ffffff;
+  color:#323232;
   font-weight: 700;
   font-size: 18px;
 }
 .offCanvas__side-info .contact-list p {
-  color: #ffffff;
+  color: #323232;
   margin: 0;
   margin-bottom: 2px;
   line-height: 26px;
 }
 .offCanvas__side-info  p a{
-  color: #ffffff;
+  color: #323232;
   margin: 0;
   margin-bottom: 2px;
   line-height: 26px;
 }
 .offCanvas__social-icon a {
-  color: #ffffff;
+  color: #323232;
   display: inline-block;
   margin-right: 20px;
   text-align: center;
@@ -1594,7 +1594,7 @@ textarea {
   }
 }
 .tgmenu__nav .logo img {
-  max-height: 34px;
+  max-height:50px;
 }
 .tgmenu__navbar-wrap {
   display: -webkit-box;
