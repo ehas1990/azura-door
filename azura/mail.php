@@ -7,8 +7,8 @@ $email= $_POST['email'];
 $message= $_POST['message'];
 
 
-$subject = "New Enquiry From " . $country . "- wearehazelwood.com";
-$to = "info@wearehazelwood.com, info@wearehazelwood.co.uk";
+$subject = "CabinsIndia" . $country . "- cabinsindia.com";
+$to = "ehasalpha@gmail.com";
 $txt = "Full Name : " . $name . "\r\nContact Number : " . $phone . "\r\nSubject : " . $topic . "\r\nMessage : " . $message;
 $subject = " $subject";
 $headers = "From: " . $email;
